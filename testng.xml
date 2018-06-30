@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AKQA WISHLIST DEMO">
+    <test name="SearchAndAddProductsToWishList">
+        <classes>
+            <class name="tests.SearchAddAndVerifyProductInWishList"/>
+        </classes>
+    </test>
+</suite>
